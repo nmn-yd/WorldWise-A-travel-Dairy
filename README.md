@@ -19,8 +19,7 @@ This project is a web application that allows you to track your footsteps around
 
 
 ## ScreenShots
-![image](https://github.com/nmn-yd/WorldWise/assets/97431919/0262fdcb-4ff9-414c-9ac8-97666b03c097)
-![image](https://github.com/nmn-yd/WorldWise/assets/97431919/dc9bc76e-54a7-4e3b-875a-ff6c47ba0cf1)
-![image](https://github.com/nmn-yd/WorldWise/assets/97431919/42e0d521-8ba6-4645-9e20-5deb5d59e445)
-![image](https://github.com/nmn-yd/WorldWise/assets/97431919/2db3a52c-49cb-4d71-bd15-74a756f19dc7)
-
+![image](https://github.com/nmn-yd/WorldWise-A-travel-Dairy/assets/97431919/05348163-b4c7-4280-a525-1e6d4482168b)
+![image](https://github.com/nmn-yd/WorldWise-A-travel-Dairy/assets/97431919/3a907741-e31c-4f1e-9c7c-35f06281731e)
+![image](https://github.com/nmn-yd/WorldWise-A-travel-Dairy/assets/97431919/866db4ef-cf2b-4a57-8b6a-bfc8732ef4cf)
+![Uploading image.png…]()
